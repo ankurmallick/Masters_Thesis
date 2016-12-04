@@ -1,0 +1,13 @@
+Description of Contents:
+
+Ankur_Thesis_Upload.pdf: A copy of my final master's thesis containing a description of my research
+
+Paper1_search.m: Code for estimating the number of samples required to estimate a bandlimited field with less than 1% detection error probability
+
+Paper1_sim.m: Code for comparing the performance of different distributions on sensor locations for bandlimited field estimation from location-unaware sensors
+
+Paper1_sim_noisy.m: Code for estimating a bandlimited field using location-unaware sensors and including corruption of samples by Gaussian noise
+
+segment_em.m: Implementation of EM algorithm for clustering noisy samples
+
+signal.m: Generation of a real-valued periodic bandlimited signal of a given bandwidth
