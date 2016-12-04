@@ -1,3 +1,4 @@
+%Author: Ankur Mallick
 %Field detection from location unaware sensors on a discrete grid
 %Clustering using EM algorithm in the presence of Gaussian noise
 %Code optimised for large bandwidths (upto b=10) and sample sizes

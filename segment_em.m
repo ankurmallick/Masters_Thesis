@@ -1,3 +1,4 @@
+%Author: Ankur Mallick
 function [yb, I]=segment_em(samples,kb,sig)
 %Clustering noisy samples via the EM algorithm
 n=length(samples);

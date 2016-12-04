@@ -1,3 +1,4 @@
+%Author: Ankur Mallick
 %Field detection from location unaware sensors on a discrete grid
 %Comparing performance for different distributions on the sensor locations
 %No measurement noise

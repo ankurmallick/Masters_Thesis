@@ -1,3 +1,4 @@
+%Author: Ankur Mallick
 %To estimate the number of samples required for 1% detection error probability
 close all
 clear all

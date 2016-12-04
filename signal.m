@@ -1,3 +1,4 @@
+%Author: Ankur Mallick
 function [g,a]=signal(b)
 %Function to generate a real valued signal 'g' of bandwidth 'b'
 %'a' is the vector of Fourier Series Coefficients
