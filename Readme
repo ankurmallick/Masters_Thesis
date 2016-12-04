@@ -11,3 +11,9 @@ Paper1_sim_noisy.m: Code for estimating a bandlimited field using location-unawa
 segment_em.m: Implementation of EM algorithm for clustering noisy samples
 
 signal.m: Generation of a real-valued periodic bandlimited signal of a given bandwidth
+
+Publications:
+Ankur Mallick, Animesh Kumar. "Bandlimited field reconstruction from samples obtained on a discrete grid with unknown random locations." IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2016. (Oral Presentation) 
+Link: http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7472431
+Ankur Mallick, Animesh Kumar. "Bandlimited Field Reconstruction from Samples Obtained at Unknown Random Locations on a Grid." submitted (under review) to IEEE Transactions on Signal Processing.
+Link: https://arxiv.org/abs/1611.10211
